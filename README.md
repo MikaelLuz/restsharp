@@ -6,7 +6,7 @@ Dependencias:
   - RestSharp
   - NUnit Framework
   - NewtonSoft
-  - .NET Framework ou .NET Core
+  - .NET Core 5.0
 
 Como usar?
 
